@@ -1,0 +1,7 @@
+.Market-ProductsList {
+  margin-top: 20px;
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}

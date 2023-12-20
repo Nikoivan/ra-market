@@ -1,0 +1,9 @@
+.Market-ProductItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.ProductItem-Image {
+  width: 100px;
+  position: relative;
+}

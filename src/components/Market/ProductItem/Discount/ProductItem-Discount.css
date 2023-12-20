@@ -1,0 +1,7 @@
+.ProductItem-Discount {
+  padding: 3px;
+  background-color: red;
+  border-radius: 60%;
+  width: 30px;
+  position: absolute;
+}

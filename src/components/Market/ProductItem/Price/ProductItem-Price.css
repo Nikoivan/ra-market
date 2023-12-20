@@ -1,0 +1,7 @@
+.Price-Value_actual {
+  margin: 0 8px;
+}
+
+.Price-Value_without_discount {
+  text-decoration: line-through;
+}
